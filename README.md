@@ -7,11 +7,12 @@
 <a href=""><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=2b9348&style=flat-square&logo=google-chrome&logoColor=" alt="website"/></a>
 <p><i><b>Art of Curves !</b></i></p>
 
-[![GitHub stars](https://img.shields.io/github/stars/thu-zhanghl/Calligraphy101.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/thu-zhanghl/Calligraphy101/stargazers/)
-[![GitHub forks](https://img.shields.io/github/forks/thu-zhanghl/Calligraphy101.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/thu-zhanghl/Calligraphy101/network/)
-[![GitHub issues](https://img.shields.io/github/issues/thu-zhanghl/Calligraphy101?style=social&logo=github)](https://github.com/thu-zhanghl/Calligraphy101/issues)
-[![GitHub followers](https://img.shields.io/github/followers/thu-zhanghl.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/thu-zhanghl?tab=followers)
-
+<a href="https://github.com/thu-zhanghl/calligraphy101/stargazers"><img src="https://img.shields.io/github/stars/thu-zhanghl/calligraphy101" alt="Stars Badge"/></a>
+<a href="https://github.com/thu-zhanghl/calligraphy101/network/members"><img src="https://img.shields.io/github/forks/thu-zhanghl/calligraphy101" alt="Forks Badge"/></a>
+<a href="https://github.com/thu-zhanghl/calligraphy101/pulls"><img src="https://img.shields.io/github/issues-pr/thu-zhanghl/calligraphy101" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/thu-zhanghl/calligraphy101/issues"><img src="https://img.shields.io/github/issues/thu-zhanghl/calligraphy101?color=red" alt="Issues Badge"/></a>
+<a href="https://github.com/thu-zhanghl/calligraphy101/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/thu-zhanghl/calligraphy101?color=2b9348"></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-calligraphy101/blob/master/LICENSE"><img src="https://img.shields.io/github/license/thu-zhanghl/calligraphy101?color=2b9348" alt="License Badge"/></a>
 </div>
 
 ## TOC
